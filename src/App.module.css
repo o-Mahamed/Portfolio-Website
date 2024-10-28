@@ -1,0 +1,7 @@
+@import "./vars.css";
+
+.App {
+    background: linear-gradient(180deg, #6833db 0%, #ffffff 100%);
+
+    background-size: cover;
+}

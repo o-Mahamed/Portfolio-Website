@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Flask Task Manager",
+        "imageSrc":"list.avif",
+        "description": "This project is a task manager web application that allows you to add, remove, and update tasks. It was made completely from scratch using Python Flask.",
+        "skills": ["Flask", "Python", "Jinja2"],
+        "demo": "",
+        "source": ""
+
+    }
+    ,
+    {
+        "title": "Personal Portfolio",
+        "imageSrc":"project.png",
+        "description": "This project is the one you're looking at right now! To create this, I used React for the backend and database. I did the front end using JavaScript and CSS, as well as taking designs from Figma.",
+        "skills": ["React","Node","Figma","CSS"],
+        "demo": "",
+        "source": ""
+
+    }
+    ,
+
+    {
+        "title": "Client Website (In Progress)",
+        "imageSrc":"contractor.jpeg",
+        "description": "This website is being made for my friend who does contracting. This will effectively be a professional business website made to organize clients and jobs, as well as contacting him. It will also contain a calendar function made to set up quote appointments and job start dates.",
+        "skills": ["React", "Figma", "Node", "CSS"],
+        "demo": "",
+        "source": ""
+
+    }
+
+
+
+
+]

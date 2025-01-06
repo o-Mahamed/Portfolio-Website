@@ -21,12 +21,12 @@
     ,
 
     {
-        "title": "Client Website (In Progress)",
-        "imageSrc":"contractor.jpeg",
-        "description": "This website is being made for my friend who does contracting. This will effectively be a professional business website made to organize clients and jobs, as well as contacting him. It will also contain a calendar function made to set up quote appointments and job start dates.",
-        "skills": ["React", "Figma", "Node", "CSS"],
+        "title": "Finance Tracker",
+        "imageSrc":"finance.jpeg",
+        "description": "This web application allows a business to manage its finances, showing data through graphs and even predicting future finances using a machine learning algorithm. This web application was composed using the MERN stack.",
+        "skills": ["React", "MongoDB", "Node", "Express", "TypeScript", "Machine Learning"],
         "demo": "",
-        "source": ""
+        "source": "https://github.com/o-Mahamed/FinanceTrackerFE"
 
     }
 
